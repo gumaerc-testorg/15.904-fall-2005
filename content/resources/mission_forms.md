@@ -3,8 +3,13 @@ content_type: resource
 description: This resource discusses a statement of the current and future expected
   product scope, market scope, and geographical scope, as well as the unique competencies
   of the business must develop to achieve a its desired competitive positioning.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-904-strategic-management-ii-fall-2005/194dd668da04580072907c946d94fce4_mission_forms.pdf
+file: /media/courses/15-904-strategic-management-ii-fall-2005/194dd668da04580072907c946d94fce4_mission_forms.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: mission_forms.pdf
 uid: 194dd668-da04-5800-7290-7c946d94fce4
