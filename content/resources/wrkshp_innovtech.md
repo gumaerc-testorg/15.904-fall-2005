@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 resourcetype: Document
 title: wrkshp_innovtech.pdf
 uid: 3b43408d-1171-6436-5952-075031262937

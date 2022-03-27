@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 resourcetype: Document
 title: dm_csstd_dmk3_2.pdf
 uid: 23cc14f9-fc79-dd94-ed25-e061ea6a8dd0
