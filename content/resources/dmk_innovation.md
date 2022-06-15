@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses innovation strategy, internal scrutiny, environment
   scan and innovation (technology) strategic agenda.
-file: /media/courses/15-904-strategic-management-ii-fall-2005/207c5895a582237cf6172773c784b508_dmk_innovation.pdf
+file: /courses/15-904-strategic-management-ii-fall-2005/207c5895a582237cf6172773c784b508_dmk_innovation.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: dmk_innovation.pdf
 uid: 207c5895-a582-237c-f617-2773c784b508
 ---
+This resource discusses innovation strategy, internal scrutiny, environment scan and innovation (technology) strategic agenda.
+

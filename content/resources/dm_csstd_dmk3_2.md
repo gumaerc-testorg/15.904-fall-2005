@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses mission of the business, unique competencies,
   industry structure, competitive positioning, and support analysis.
-file: /media/courses/15-904-strategic-management-ii-fall-2005/23cc14f9fc79dd94ed25e061ea6a8dd0_dm_csstd_dmk3_2.pdf
+file: /courses/15-904-strategic-management-ii-fall-2005/23cc14f9fc79dd94ed25e061ea6a8dd0_dm_csstd_dmk3_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: dm_csstd_dmk3_2.pdf
 uid: 23cc14f9-fc79-dd94-ed25-e061ea6a8dd0
 ---
+This resource discusses mission of the business, unique competencies, industry structure, competitive positioning, and support analysis.
+
