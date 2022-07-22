@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section contains 17 lecture notes files corresponding
+  to the topics given for the sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 86e5f43b-c04b-79f9-4605-4de1284f020d
 ---
@@ -28,11 +33,11 @@ Topics
 {{< tdopen >}}
 
 
-Course Overview ([PDF]({{< baseurl >}}/resources/dmoverallfr))
+Course Overview ({{% resource_link 2b11df6b-33ca-0687-2857-29ec6cdd1c83 "PDF" %}})
 
-Examples Delta ([PDF]({{< baseurl >}}/resources/dm_captskstrshrt))
+Examples Delta ({{% resource_link 2787375e-7ced-ffe6-78c2-56fdb022b45f "PDF" %}})
 
-DMK Introduction ([PDF]({{< baseurl >}}/resources/dmkfinal))
+DMK Introduction ({{% resource_link e9c26ebb-94ec-2781-bbda-374cd73d599d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -49,9 +54,9 @@ DMK Introduction ([PDF]({{< baseurl >}}/resources/dmkfinal))
 {{< tdopen >}}
 
 
-Customer Segmentation and Customer Value Proposition ([PDF]({{< baseurl >}}/resources/custseg))
+Customer Segmentation and Customer Value Proposition ({{% resource_link 2971481d-e517-86a9-d0a4-ebdc04a0a201 "PDF" %}})
 
-DMK Segmentation Assignment ([PDF]({{< baseurl >}}/resources/dm_csstd_dmk2_2b))
+DMK Segmentation Assignment ({{% resource_link 79babe0b-6b5c-5020-6a0b-da471c518244 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -87,15 +92,15 @@ Customer Segmentation and Customer Value Proposition
 {{< tdopen >}}
 
 
-The Firm as a Bundle of Competencies ([PDF - 1.0 MB]({{< baseurl >}}/resources/bundlecomp))
+The Firm as a Bundle of Competencies ({{% resource_link 29bba942-246d-194f-5518-d2acf318467a "PDF - 1.0 MB" %}})
 
-Mission I ([PDF]({{< baseurl >}}/resources/mission))
+Mission I ({{% resource_link a3cd117b-92fc-9764-b79c-54934bbc4877 "PDF" %}})
 
-Mission II ([PDF - 2.1 MB]({{< baseurl >}}/resources/wrkshp_mission))
+Mission II ({{% resource_link 4abed035-7d6b-0be2-db38-18cfe9b87162 "PDF - 2.1 MB" %}})
 
-Mission Forms ([PDF]({{< baseurl >}}/resources/mission_forms))
+Mission Forms ({{% resource_link 194dd668-da04-5800-7290-7c946d94fce4 "PDF" %}})
 
-DMK's Mission ([PDF]({{< baseurl >}}/resources/dm_csstd_dmk3_2))
+DMK's Mission ({{% resource_link 23cc14f9-fc79-dd94-ed25-e061ea6a8dd0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -131,9 +136,9 @@ The Firm as a Bundle of Competencies
 {{< tdopen >}}
 
 
-The Mission of the Firm and the Craft of the Strategic Agenda ([PDF - 1.0 MB]({{< baseurl >}}/resources/strag))
+The Mission of the Firm and the Craft of the Strategic Agenda ({{% resource_link 4bc12ccc-d53c-a8f8-ffa4-dfea9dc7c517 "PDF - 1.0 MB" %}})
 
-DMK Strategic Agenda ([PDF]({{< baseurl >}}/resources/dm_csstd_dmk4_2))
+DMK Strategic Agenda ({{% resource_link b536e57c-bfe3-62ef-dc0a-a47f22c67b38 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -205,9 +210,9 @@ Operational Effectiveness
 {{< tdopen >}}
 
 
-Innovation ([PDF]({{< baseurl >}}/resources/wrkshp_innovtech))
+Innovation ({{% resource_link 3b43408d-1171-6436-5952-075031262937 "PDF" %}})
 
-DMK Innovation ([PDF]({{< baseurl >}}/resources/dmk_innovation))
+DMK Innovation ({{% resource_link 207c5895-a582-237c-f617-2773c784b508 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -245,11 +250,11 @@ Innovation
 
 Aggregate and Granular Metrics and Financial Evaluation
 
-Metrics I ([PDF]({{< baseurl >}}/resources/portfoliomgt))
+Metrics I ({{% resource_link f7000f09-8c0b-0cb9-7525-5f3e1ec200e3 "PDF" %}})
 
-Metrics II ([PDF]({{< baseurl >}}/resources/met_fineval))
+Metrics II ({{% resource_link 474d96f3-2695-edb9-0a50-f93d7857650d "PDF" %}})
 
-DM Metrics ([PDF]({{< baseurl >}}/resources/dm_csstd_dmk8_2))
+DM Metrics ({{% resource_link be562022-1bba-e23c-65df-e09f4d7f9999 "PDF" %}})
 
 
 {{< tdclose >}}

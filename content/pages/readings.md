@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section contains the list of the required and general references
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e5c84bdc-9d9b-23b2-7a95-04d3578d9915
 ---
