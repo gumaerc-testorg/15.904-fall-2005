@@ -6,6 +6,7 @@ file: /courses/15-904-strategic-management-ii-fall-2005/207c5895a582237cf6172773
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dmk_innovation.pdf
 uid: 207c5895-a582-237c-f617-2773c784b508
 ---
 This resource discusses innovation strategy, internal scrutiny, environment scan and innovation (technology) strategic agenda.
-

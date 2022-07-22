@@ -6,6 +6,7 @@ file: /courses/15-904-strategic-management-ii-fall-2005/23cc14f9fc79dd94ed25e061
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dm_csstd_dmk3_2.pdf
 uid: 23cc14f9-fc79-dd94-ed25-e061ea6a8dd0
 ---
 This resource discusses mission of the business, unique competencies, industry structure, competitive positioning, and support analysis.
-
