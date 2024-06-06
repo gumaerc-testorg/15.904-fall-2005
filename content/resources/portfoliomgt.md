@@ -4,6 +4,7 @@ description: This resource discusses basic tools for portfolio management - Grow
   Share Matrix, industry attractiveness-Business Strength Matrix, Life Cycle Matrix,
   and Profitability Matrix.
 file: /courses/15-904-strategic-management-ii-fall-2005/f7000f098c0b0cb975255f3e1ec200e3_portfoliomgt.pdf
+file_size: 414865
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
