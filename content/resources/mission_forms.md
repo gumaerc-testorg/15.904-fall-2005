@@ -4,6 +4,7 @@ description: This resource discusses a statement of the current and future expec
   product scope, market scope, and geographical scope, as well as the unique competencies
   of the business must develop to achieve a its desired competitive positioning.
 file: /courses/15-904-strategic-management-ii-fall-2005/194dd668da04580072907c946d94fce4_mission_forms.pdf
+file_size: 637102
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
