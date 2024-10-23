@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses strategic agenda for DMK.
-file: /courses/15-904-strategic-management-ii-fall-2005/b536e57cbfe362efdc0aa47f22c67b38_dm_csstd_dmk4_2.pdf
+file: /ol-ocw-studio-app/courses/15-904-strategic-management-ii-fall-2005/b536e57cbfe362efdc0aa47f22c67b38_dm_csstd_dmk4_2.pdf
 file_size: 40526
 file_type: application/pdf
 learning_resource_types:
