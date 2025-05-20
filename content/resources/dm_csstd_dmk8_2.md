@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses balanced score card and financial evaluation,
   and performance metrics for the business drivers of the Delta Model.
-file: /ol-ocw-studio-app/courses/15-904-strategic-management-ii-fall-2005/be5620221bbae23c65dfe09f4d7f9999_dm_csstd_dmk8_2.pdf
+file: /courses/15-904-strategic-management-ii-fall-2005/be5620221bbae23c65dfe09f4d7f9999_dm_csstd_dmk8_2.pdf
 file_size: 130418
 file_type: application/pdf
 learning_resource_types:
