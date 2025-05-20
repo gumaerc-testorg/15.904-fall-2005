@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses strategic positioning, Delta Model strategies,
   bundle of competencies trauma, bundle of competencies spine, and analysis, and insights
   from the Delta Model.
-file: /ol-ocw-studio-app/courses/15-904-strategic-management-ii-fall-2005/29bba942246d194f5518d2acf318467a_bundlecomp.pdf
+file: /courses/15-904-strategic-management-ii-fall-2005/29bba942246d194f5518d2acf318467a_bundlecomp.pdf
 file_size: 1070448
 file_type: application/pdf
 learning_resource_types:
