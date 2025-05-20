@@ -4,7 +4,7 @@ description: This resource discusses how to capture critical tasks of strategy w
   the help of Delta Model explaining products and service scope, customer scope, complementors
   scope, segmentation to guide the decommoditization of the business for Siemens Power
   Generation.
-file: /ol-ocw-studio-app/courses/15-904-strategic-management-ii-fall-2005/2787375e7cedffe678c256fdb022b45f_dm_captskstrshrt.pdf
+file: /courses/15-904-strategic-management-ii-fall-2005/2787375e7cedffe678c256fdb022b45f_dm_captskstrshrt.pdf
 file_size: 854826
 file_type: application/pdf
 learning_resource_types:
