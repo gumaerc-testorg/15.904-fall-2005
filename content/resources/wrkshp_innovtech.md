@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses the Delta Model ? an integrative strategic framework,
   fundamental elements of innovation strategy, major categories of strategic decisions
   linked to Innovation (Technology).
-file: /courses/15-904-strategic-management-ii-fall-2005/3b43408d117164365952075031262937_wrkshp_innovtech.pdf
+file: /ol-ocw-studio-app/courses/15-904-strategic-management-ii-fall-2005/3b43408d117164365952075031262937_wrkshp_innovtech.pdf
 file_size: 923060
 file_type: application/pdf
 learning_resource_types:
