@@ -67,4 +67,4 @@ Thompke, S. _Experimentation Matters: Unlocking The Potential of New Technologie
 
 Ulrich, D. _Human Resource Champions_. Boston, MA: Harvard Business School Press, 1997.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/democratizing-innovation) von Hippel, E. [_Democratizing Innovation_](https://mitpress.mit.edu/books/democratizing-innovation). Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
+{{% resource_link "b33e432b-b71b-4ce8-ae31-313189a8640b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} von Hippel, E. {{% resource_link "b33e432b-b71b-4ce8-ae31-313189a8640b" "_Democratizing Innovation_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
